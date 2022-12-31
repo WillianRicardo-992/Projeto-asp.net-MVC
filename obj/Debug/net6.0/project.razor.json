@@ -16303,6 +16303,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ricar\\OneDrive\\Documentos\\C# .Net\\ProjetoMVC\\Views\\Contatos\\Editar.cshtml",
+      "TargetPath": "Views\\Contatos\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ricar\\OneDrive\\Documentos\\C# .Net\\ProjetoMVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -16323,6 +16328,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ricar\\OneDrive\\Documentos\\C# .Net\\ProjetoMVC\\Views\\Contatos\\Detalhes.cshtml",
+      "TargetPath": "Views\\Contatos\\Detalhes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ricar\\OneDrive\\Documentos\\C# .Net\\ProjetoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16335,6 +16345,11 @@
     {
       "FilePath": "c:\\Users\\Ricar\\OneDrive\\Documentos\\C# .Net\\ProjetoMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ricar\\OneDrive\\Documentos\\C# .Net\\ProjetoMVC\\Views\\Contatos\\Deletar.cshtml",
+      "TargetPath": "Views\\Contatos\\Deletar.cshtml",
       "FileKind": "mvc"
     },
     {
